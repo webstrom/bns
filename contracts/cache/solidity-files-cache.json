@@ -1,0 +1,49 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/daizhongfu/WebstormProjects/learn/contracts/ERC20.sol": {
+      "lastModificationDate": 1691977734690,
+      "contentHash": "1d16bdbb009cc2aebbab9ad37445953c",
+      "sourceName": "contracts/ERC20.sol",
+      "solcConfig": {
+        "version": "0.4.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.4.17"
+      ],
+      "artifacts": [
+        "BasicToken",
+        "BlackList",
+        "ERC20",
+        "ERC20Basic",
+        "Ownable",
+        "Pausable",
+        "SafeMath",
+        "StandardToken",
+        "TetherToken",
+        "UpgradedStandardToken"
+      ]
+    }
+  }
+}
